@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Hell `1
 <<<<<<< HEAD
+<<<<<<< HEAD
 brunch 1 test
 conflit 2
 =======
@@ -9,3 +10,6 @@ Hell `1
 =======
 brunch 1 test
 >>>>>>> parent of 928e727... Update Hell.txt
+=======
+brunch 1 test
+>>>>>>> parent of da54b8b... confilit1
