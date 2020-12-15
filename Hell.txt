@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hell `1
 brunch 1 test
 conflit 2
+=======
+Hell `1
+>>>>>>> parent of bd9032b... Update Hell.txt
